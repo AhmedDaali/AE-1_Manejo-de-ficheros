@@ -1,4 +1,7 @@
 # AE-1_Manejo-de-ficheros
+
+-English: It is a Java application to manage cars and will store the data in files.
+
 Es una aplicación Java para gestionar coches y almacenará los datos en ficheros.
 
 Es una aplicación Java para gestionar coches y al.
